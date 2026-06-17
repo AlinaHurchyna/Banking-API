@@ -1,5 +1,6 @@
 package com.banking.model;
 
+
 public class Account {
     private Long id;
     private String accountNumber;
